@@ -1,0 +1,9 @@
+/* Home.css */
+
+/* Add a border to the columns */
+.column {
+    border: 1px solid #ddd;
+    padding: 15px;
+    margin: 10px; /* Margin for spacing */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Shadow effect */
+}
